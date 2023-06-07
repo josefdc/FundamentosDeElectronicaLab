@@ -24,11 +24,9 @@ begin
     -- Stimulus process
     stim_proc: process
     begin
-        -- Wait for 10 ns
-        wait for 10 ns;
 
         -- Apply input values
-        A_8bit <= "00000001";
+        A_8bit <= "00001010";
         B_8bit <= "00000010";
         C_8bit <= "00000011";
         S1_1bit <= '0';
@@ -36,7 +34,7 @@ begin
 
         wait for 20 ns;
 
-        A_8bit <= "00000001";
+        A_8bit <= "00001010";
         B_8bit <= "00000010";
         C_8bit <= "00000011";
         S1_1bit <= '0';
@@ -44,7 +42,7 @@ begin
 
         wait for 20 ns;
 
-        A_8bit <= "00000001";
+        A_8bit <= "00001010";
         B_8bit <= "00000010";
         C_8bit <= "00000011";
         S1_1bit <= '1';
@@ -52,7 +50,7 @@ begin
 
         wait for 20 ns;
 
-        A_8bit <= "00000001";
+        A_8bit <= "00001010";
         B_8bit <= "00000010";
         C_8bit <= "00000011";
         S1_1bit <= '1';
