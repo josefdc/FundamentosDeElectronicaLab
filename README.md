@@ -1,5 +1,5 @@
 
- # Fundamentos de Electrónica - Universidad Tecnológica de Colombia
+ # Fundamentos de Electrónica - Universidad Tecnológica de Pereira
 
 Bienvenido al repositorio del curso de Fundamentos de Electrónica. Este espacio está diseñado para fomentar la colaboración y el aprendizaje continuo en el campo de la electrónica.
 Contenido
